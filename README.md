@@ -27,10 +27,11 @@
 <h3>Indra</h3>
 <p>Desarrollador FullStack</p> 
 <p>📆 Oct. 2022 - Mar. 2023</p>
-- Desarrollo y mantenimiento de una aplicación agrícola
-- Programación en Java para la lógica de negocio y gestión de datos en el backend.
+- Desarrollo y mantenimiento de una aplicación agrícola.
+- Programación en Java para la lógica de negocio y gestión de datos en el backend
 - Control de versiones y gestión de código fuente utilizando Git.
-- Aplicación de Sonar para garantizar la calidad del código y detectar vulnerabilidades.
+- Implementación de soluciones backend con Java y arquitectura de microservicios.
+- Validación y calidad de código implementado con Sonar
 - Metodología ágil Scrum
 
 
