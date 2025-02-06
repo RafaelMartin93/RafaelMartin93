@@ -1,7 +1,7 @@
 ## Hola, soy Rafa  👋
 
 <p align="center">
-  <img src="https://i.imgur.com/cqtGu7Q.jpeg" style="max-width: 100%;"/>
+  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" style="max-width: 100%;"/>
 </p>
 
 <Br>
