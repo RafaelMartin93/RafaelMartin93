@@ -1,7 +1,7 @@
 ## Hola, soy Rafa  👋
 
 <p align="center">
-  <img src="https://imgur.com/a/DdsNf9D" height="280"/>
+  <img src="[https://imgur.com/a/DdsNf9D](https://imgur.com/a/DdsNf9D)" height="280"/>
 </p>
 <!--
 **RafaelMartin93/RafaelMartin93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
