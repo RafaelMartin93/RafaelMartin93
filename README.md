@@ -33,6 +33,7 @@
   <li>Control de versiones del código fuente mediante Git, asegurando trazabilidad y colaboración en equipo</li>
   <li>Validación y calidad de código implementado con Sonar</li>
   <li>Programación en Java para la creación y mantenimiento de pruebas automatizadas</li>
+  <li>Metodología ágil Scrum</li>
 </ul>
 
 <h2>👨‍💻 Skills</h2>
