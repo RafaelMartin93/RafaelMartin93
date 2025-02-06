@@ -33,6 +33,7 @@
 - Aplicación de Sonar para garantizar la calidad del código y detectar vulnerabilidades.
 - Metodología ágil Scrum
 
+
 <h3>Softtek</h3>
 <p>Desarrollador Tester</p> 
 <p>📆 Oct. 2020-Sept. 2022</p>
