@@ -3,32 +3,24 @@
   Soy un programador con más de 7 años de experiencia en desarrollo <b>Java</b>, especializado en evolutivos y correcciones de aplicaciones. Trabajo en entornos ágiles con metodología Scrum, colaborando en equipos multidisciplinarios. Mi enfoque es la mejora continua y la entrega de soluciones eficientes.
 </p>
 
-
-<Br>
 <h2>Sobre mí</h2>
 
-- 🏫: I'm a grade 9, High School Student.
-- 🔭: I’m currently working on many small ML projects.
-- 🌱: I’m currently learning Neural Networks and Deep Learning. 🧠💻🤖
-- 🤔: I’m looking for help with anything I am currently learning! 😅
-- 💬: Ask me about Data Analysis, Visualization and Machine Learning algorithms. 📊📈🤖🧠
-- 😄  Pronouns: He/His
-- ⚡  Fun fact: I play Soccer, Tennis and the Piano! ⚽🎾🎹
+- 🔭: Actualmente estoy trabajando en Ayesa.
+- 💻: Trabajo en equipo
+- 🚀: Soluciones eficientes
+- 📈: Aprendizaje y adaptacion rapida
+- ⚡  Hobbies: Fotografía de paisaje
   
 <hr>
 <Br>
+<h2>👨‍💻 Skills</h2>
 
-<!--
-**RafaelMartin93/RafaelMartin93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h2>👨‍💻 Skills</h2>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
