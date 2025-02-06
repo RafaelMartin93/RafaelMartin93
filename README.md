@@ -16,21 +16,24 @@
 <h3>Ayesa</h3>
 <p>Analista Programador Java</p> 
 <p>📆 May. 2023 – Actualidad</p>
-
-- Diseño y desarrollo de nuevas funcionalidades y evolutivos en aplicaciones empresariales.
-- Identificación y resolución de incidencias mediante correctivos de evolutivos existentes
-- Control y gestión de versiones del software mediante herramientas como Git y Maven.
-- Implementación de soluciones backend con Java y arquitectura de microservicios.
-- Validación y calidad de código implementado con Sonar
-- Metodología ágil Scrum
+<ul>
+  <li>Diseño y desarrollo de nuevas funcionalidades y evolutivos en aplicaciones empresariales</li>
+  <li>Identificación y resolución de incidencias mediante correctivos de evolutivos existentes</li>
+  <li>Control y gestión de versiones del software mediante herramientas como Git y Maven</li>
+  <li>Implementación de soluciones backend con Java y arquitectura de microservicios</li>
+  <li>Validación y calidad de código implementado con Sonar</li>
+  <li>Metodología ágil Scrum</li>
+</ul>
 
 <h3>Softtek</h3>
 <p>Desarrollador Tester</p> 
 <p>📆 Oct. 2020-Sept. 2022</p>
-- Desarrollo de pruebas automáticas mediante frameworks como JUnit y Appium
-- Control de versiones del código fuente mediante Git, asegurando trazabilidad y colaboración en equipo.
-- Validación y calidad de código implementado con Sonar.
-- Programación en Java para la creación y mantenimiento de pruebas automatizadas.
+<ul>
+  <li>Desarrollo de pruebas automáticas mediante frameworks como JUnit y Appium</li>
+  <li>Control de versiones del código fuente mediante Git, asegurando trazabilidad y colaboración en equipo</li>
+  <li>Validación y calidad de código implementado con Sonar</li>
+  <li>Programación en Java para la creación y mantenimiento de pruebas automatizadas</li>
+</ul>
 
 <h2>👨‍💻 Skills</h2>
 
