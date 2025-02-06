@@ -3,7 +3,7 @@
   Soy un programador con más de 7 años de experiencia en desarrollo <b>Java</b>, especializado en evolutivos y correcciones de aplicaciones. Trabajo en entornos ágiles con metodología Scrum, colaborando en equipos multidisciplinarios. Mi enfoque es la mejora continua y la entrega de soluciones eficientes.
 </p>
 
-<h2>Sobre mí</h2>
+<h2>👨‍💼 Sobre mí</h2>
 
 - 🔭: Actualmente estoy trabajando en Ayesa.
 - 💻: Trabajo en equipo
@@ -11,10 +11,9 @@
 - 📈: Aprendizaje y adaptacion rapida
 - ⚡  Hobbies: Fotografía de paisaje
   
-<hr>
 <Br>
 <h2>💻 Experiencias</h2>
-<h3>Ayesa</>
+<h3>Ayesa</h3>
 <p>Analista Programador Java</p> 
 <p>📆 May. 2023–actualidad</p>
 
