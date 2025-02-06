@@ -13,10 +13,13 @@
   
 <hr>
 <Br>
+<h2>💻 Experiencias</h2>
+<h3>Ayesa</>
+<p>Analista Programador Java</p> 
+<p>📆 May. 2023–actualidad</p>
+
 <h2>👨‍💻 Skills</h2>
 
-
-<h2>👨‍💻 Skills</h2>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
