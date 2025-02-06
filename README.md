@@ -5,7 +5,7 @@
 
 
 <Br>
-<h1>Sobre mí! 😎</h1>
+<h2>Sobre mí</h2>
 
 - 🏫: I'm a grade 9, High School Student.
 - 🔭: I’m currently working on many small ML projects.
