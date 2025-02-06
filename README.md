@@ -27,7 +27,7 @@
 
 <h3>Softtek</h3>
 <p>Desarrollador Tester</p> 
-<p>📆 Oct. 2020-Sept. 2022</p>
+<p>📆 Oct. 2020 – Sept. 2022</p>
 <ul>
   <li>Desarrollo de pruebas automáticas mediante frameworks como JUnit y Appium</li>
   <li>Control de versiones del código fuente mediante Git, asegurando trazabilidad y colaboración en equipo</li>
