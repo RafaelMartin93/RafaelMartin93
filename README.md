@@ -1,8 +1,8 @@
-## Hola, soy Rafa  👋
-
-<p align="center">
-  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" style="max-width: 100%;"/>
+<h1>Hola, soy Rafa</h1> 👋
+<p>
+  
 </p>
+
 
 <Br>
 <h1>Sobre mí! 😎</h1>
